@@ -1,0 +1,12 @@
+.icon{
+    padding-right: 10px;
+}
+.table thead tr {
+    background: #98cae0;
+}
+
+.react-bs-container-body {
+    height: 300px !important;
+    overflow: hidden;
+    overflow-y: scroll;
+}
