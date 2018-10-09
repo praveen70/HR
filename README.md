@@ -1,6 +1,6 @@
 # HR
-this  hr application which is developed by using reactjs, redux, redux saga , nodejs Sequelize mssql 
-here i user some packages 
+this application which is developed by using reactjs, redux, redux saga , nodejs Sequelize mssql 
+here i used some packages 
 npm install
 npm create-react-app
 npm install react-router-dom
